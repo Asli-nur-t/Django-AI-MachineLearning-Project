@@ -1,4 +1,4 @@
-[https://github.com/Asli-nur-t/Django-AI-MachineLearning-Project/tree/main](url)
+https://github.com/Asli-nur-t/Django-AI-MachineLearning-Project/tree/main
 # Django-AI-MachineLearning-Project
 ![kaydol](https://github.com/user-attachments/assets/62e2b25b-387d-4ca3-8084-c4125a5a4c77)
 ![giriş](https://github.com/user-attachments/assets/9f27fbb1-7a96-4bb6-8a9f-600969923c8a)
